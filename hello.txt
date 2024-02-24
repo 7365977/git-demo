@@ -4,9 +4,9 @@
     int i,j;
     printf("九九乘法简表:\n");
     for (i=1;i<=9;i++)                       //外循环变量i
-      {for (j=1;j<=i;j++)                    //内循环变量j
+    {for (j=1;j<=i;j++)                    //内循环变量j
        printf ("%d*%d=%-4d",j,i, i*j);       //输出i*j
        printf ("\n");
-    } 
-    return 0;
-}
+       } 
+       return 0;
+888888}
