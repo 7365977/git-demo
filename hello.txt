@@ -8,5 +8,6 @@
        printf ("%d*%d=%-4d",j,i, i*j);       //输出i*j
        printf ("\n");
        } master test 
-       return 0;
+       return 0 hot-fix test;
+       hot-fix
 888888}
